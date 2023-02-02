@@ -262,7 +262,7 @@ kubectl delete -f nginx-service.yaml
 
 
 
-Now you could combine the service and deployment files into one file and apply it. Or you could apply the whole directory. This article just shows a beginners guide to understanding the YAML configuration files.
+Now you could combine the service and deployment files into one file and apply it. Or you could apply the whole directory. This project just shows a beginners guide to understanding the YAML configuration files.
 
 
 
