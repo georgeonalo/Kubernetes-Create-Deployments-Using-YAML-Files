@@ -53,7 +53,7 @@ spec:
         image: nginx:1.14.2
         ports:
         - containerPort: 80
-        ```
+```
         
         
 This object tells Kubernetes API to deploy a single replicated pod with the nginx image on port 80. To use this file input the following command in a Terminal in VSCode. Indicating your file name.
