@@ -97,7 +97,7 @@ spec:
       port: 80
       targetPort: 80
       nodePort: 30007
-      ```
+```
       
  
 
