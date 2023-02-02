@@ -190,7 +190,7 @@ You will see as the changes take place that 3 more replicas will be added. Also 
 
 
 
-```
+
 Enter **kubectl get deployment** to check the deployment information.
 
 
