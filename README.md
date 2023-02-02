@@ -15,7 +15,7 @@ Kubernetes is a container orchestration platform. It allows you to deploy, manag
 In Kubernetes, the deployment is an object that you use to scale, roll out, and roll back the various versions of your application. We will create our deployment with a YAML file. This will create any number of identical pods that we specify. To get started, first open up VSCode and create a new directory to work from. Then create a new file. I will name mine nginx-deploy.yaml.
 
 
-                           ![image](https://user-images.githubusercontent.com/115881685/216232527-4f699e26-fc22-41ee-96a4-6411ef014797.png)
+   ![image](https://user-images.githubusercontent.com/115881685/216232527-4f699e26-fc22-41ee-96a4-6411ef014797.png)
 
 
 
