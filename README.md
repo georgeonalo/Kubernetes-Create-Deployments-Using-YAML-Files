@@ -101,7 +101,7 @@ spec:
       
  
 
-1
+
 Note that the kind is Service and this will apply to all applications with the label nginx. The spec section includes a NodePort which is an open port on every node of your cluster that will route traffic on nodePort 30007. The NodePorts range is 30000–32768. Now once you save the file, run the command:
 
 
